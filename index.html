@@ -5,13 +5,60 @@
     <meta charset="utf-8">
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r99/three.js" integrity="sha256-QlZjRhqOlDukXFfprbpsdrDQws7TtQdTGDh7F7Q3310=" crossorigin="anonymous"></script>
-    <script src="https://raw.githubusercontent.com/fhk/broadband.cat/master/node_modules/three-plain-animator/lib/plain-animator.js"></script>
     <script src="https://unpkg.com/rxjs/bundles/rxjs.umd.min.js"></script>
   </head>
   <body>
 
 
     <script type="module">
+
+
+    class PlainAnimator {
+        constructor(texture, tilesAmountHorizontally, tilesAmountVertically, tilesTotalAmount, framesPerSecond) {
+            this.texture = texture;
+            this.tilesAmountHorizontally = tilesAmountHorizontally;
+            this.tilesAmountVertically = tilesAmountVertically;
+            this.tilesTotalAmount = tilesTotalAmount;
+            this.currentFrameDisplayTime = 0;
+            this.currentFrame = 0;
+            this.clock = new THREE.Clock();
+            this.end$ = new rxjs.Subject();
+            this.tilesTotalAmount -= 1; // indexing from 0
+            this.frameDisplayDuration = 1000 / framesPerSecond;
+            this.texture.wrapS = THREE.RepeatWrapping;
+            this.texture.wrapT = THREE.RepeatWrapping;
+            this.texture.repeat.set(1 / tilesAmountHorizontally, 1 / tilesAmountVertically);
+        }
+        init(startFrame = 0) {
+            this.currentFrame = startFrame;
+            this.currentFrameDisplayTime = 0;
+            this.clock = new THREE.Clock();
+            this.updateTexture();
+            return this.texture;
+        }
+        animate() {
+            this.currentFrameDisplayTime += this.clock.getDelta() * 1000;
+            while (this.currentFrameDisplayTime > this.frameDisplayDuration) {
+                this.currentFrameDisplayTime -= this.frameDisplayDuration;
+                if (this.currentFrame === this.tilesTotalAmount) {
+                    this.end$.next();
+                }
+                this.currentFrame = this.currentFrame < this.tilesTotalAmount ? this.currentFrame + 1 : 0;
+                this.updateTexture();
+            }
+        }
+        get end() {
+            return this.end$.asObservable();
+        }
+        updateTexture() {
+            const tileHeight = 1 / this.tilesAmountVertically;
+            const currentColumn = this.currentFrame % this.tilesAmountHorizontally;
+            const currentRow = Math.floor(this.currentFrame / this.tilesAmountHorizontally);
+            this.texture.offset.x = currentColumn / this.tilesAmountHorizontally;
+            this.texture.offset.y = 1 - currentRow / this.tilesAmountVertically - tileHeight;
+        }
+    }
+
       const texturePath = 'nyan.png';
       var animator;
       animator = new PlainAnimator(new THREE.TextureLoader().load(texturePath), 4, 3, 10, 1);
@@ -27,11 +74,11 @@
 
       var firstLetter = true;
 
-      var text = "Broadband\ncoming to\n_insert_your_town_here_",
+      var text = "Broadband coming to\n_insert_your_town_here_",
 
-        height = 10,
+        height = 40,
         size = 10,
-        hover = 30,
+        hover = 40,
 
         curveSegments = 4,
 
