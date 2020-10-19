@@ -1,4 +1,4 @@
-baseURL = "http://broadband.cat/"
+baseURL = "fhk.github.io/broadband.cat/"
 title = "MEOW!"
 author = "Cheshire Cat"
 copyright = "© 2020, broadband.cat"
@@ -9,6 +9,7 @@ enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 theme = "origin"
 staticDir = "static"
+publishDir = "docs"
 
 [params]
   description = "How much would broadband cost for your town?"
