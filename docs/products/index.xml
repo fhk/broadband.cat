@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on MEOW!</title>
-    <link>fhk.github.io/broadband.cat/products/</link>
+    <link>/products/</link>
     <description>Recent content in Products on MEOW!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, broadband.cat</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 13:30:05 -0700</lastBuildDate><atom:link href="fhk.github.io/broadband.cat/products/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 13:30:05 -0700</lastBuildDate><atom:link href="/products/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data</title>
-      <link>fhk.github.io/broadband.cat/products/data/</link>
+      <link>/products/data/</link>
       <pubDate>Sun, 18 Oct 2020 13:30:05 -0700</pubDate>
       
-      <guid>fhk.github.io/broadband.cat/products/data/</guid>
+      <guid>/products/data/</guid>
       <description>Whether you are brand new to broadband or you are an expert in Outside Plant (OSP) you want to know what you are in for.
  Where do you need to construct? Where do you need to get access? Who are you going to connect?  You can answer these questions easily with spatial data.
 broadband.cat offers three (3) data products.

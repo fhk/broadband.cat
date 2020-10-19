@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on MEOW!</title>
-    <link>fhk.github.io/broadband.cat/series/</link>
+    <link>/series/</link>
     <description>Recent content in Series on MEOW!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2020, broadband.cat</copyright><atom:link href="fhk.github.io/broadband.cat/series/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2020, broadband.cat</copyright><atom:link href="/series/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

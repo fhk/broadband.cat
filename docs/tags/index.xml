@@ -2,36 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MEOW!</title>
-    <link>fhk.github.io/broadband.cat/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on MEOW!</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, broadband.cat</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 13:31:43 -0700</lastBuildDate><atom:link href="fhk.github.io/broadband.cat/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 18 Oct 2020 13:31:43 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>launch</title>
-      <link>fhk.github.io/broadband.cat/tags/launch/</link>
+      <link>/tags/launch/</link>
       <pubDate>Sun, 18 Oct 2020 13:31:43 -0700</pubDate>
       
-      <guid>fhk.github.io/broadband.cat/tags/launch/</guid>
+      <guid>/tags/launch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MVP</title>
-      <link>fhk.github.io/broadband.cat/tags/mvp/</link>
+      <link>/tags/mvp/</link>
       <pubDate>Sun, 18 Oct 2020 13:31:43 -0700</pubDate>
       
-      <guid>fhk.github.io/broadband.cat/tags/mvp/</guid>
+      <guid>/tags/mvp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>v0</title>
-      <link>fhk.github.io/broadband.cat/tags/v0/</link>
+      <link>/tags/v0/</link>
       <pubDate>Sun, 18 Oct 2020 13:31:43 -0700</pubDate>
       
-      <guid>fhk.github.io/broadband.cat/tags/v0/</guid>
+      <guid>/tags/v0/</guid>
       <description></description>
     </item>
     
