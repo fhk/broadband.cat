@@ -6,11 +6,11 @@ description : "US nation wide rollout cost benchmark"
 tags : [ "v0", "launch", "MVP"] 
 ---
 
-# MUM!!! Netflix is buffering again...
+# MOM!!! Netflix is buffering again...
 
 Recently everyday access to broadband has come into direct focus in the United States. This has been an onging discussion. With [false information](https://arstechnica.com/tech-policy/2020/04/att-gave-fcc-false-broadband-coverage-data-in-parts-of-20-states/) in in the Form 477 data through to projects like Google Fiber motivating communities to ask the question. Why can't we get acess to reliable, affordable high speed internet.
 
-Enter COV-19... In complete shift of the business pschy work from home is now the norm. Everyone is fluent in atleast two video platforms and reliant on their devices to stay connected to their team. Big tech has told workers to [stay home till 2021](https://www.washingtonpost.com/technology/2020/05/18/facebook-google-work-from-home/), with many other industries and companies also taking similar steps.
+Enter COVID-19... In a complete shift of the business pschy work from home is now the norm. Everyone is fluent in atleast two video platforms and reliant on their devices to stay connected to their team. Big tech has told workers to [stay home till 2021](https://www.washingtonpost.com/technology/2020/05/18/facebook-google-work-from-home/), with many other industries and companies also taking similar steps.
 
 There are many barriers in place for communities to be able to start a discussion on how they might build their own network.
 
@@ -29,7 +29,7 @@ This is the question which has lead to the development of a collaboration betwee
 
 Is the first opensource opendata software that lets communities quickly estimate the amount of potenital construction to build a broadband network.
 
-Starting with a quick [city wide analysis](http://broadband.cat/westdesmoines.html) of the most recent Google Fiber initative in West Des Moines, IA. But uniquely scalling to be able to asses whole states, with the goal of covering the whole Unites States and maybe the world!
+Starting with a quick [city wide analysis](http://broadband.cat/westdesmoines.html) of the most recent Google Fiber initative in West Des Moines, IA. But uniquely scalling to be able to asses [whole states](http://broadband.cat/mississippi.html), with the goal of covering the whole Unites States and maybe the world!
 
 You can access the code and run the project [here](https://github.com/fhk/tabby_cat).
 
@@ -41,13 +41,13 @@ The scale of global ride sharing lead the team at unfolded.ai to rethink what vi
 - deck.gl
 - kepler.gl
 
-The platform brings a workflow and unification of large scale visualization and planetary data sets. What was previously not even contemplatable is not interactive and dyamic in the browser.
+The platform brings a workflow and unification of large scale visualization of planetary data sets. What was previously not even contemplatable is now interactive and dyamic in the browser.
 
 ## The Challenge
 
 It is not possible to quickly asses the cost of deploying a broadband network and it shouldn't be. No one size fits all. There are many nuanced choices, whom to connect, when to connect them, how to raise financing and the list goes on.
 
-But it is possible to get access to data from [Open Street Map](https://www.openstreetmap.org/) and [Open Addresses](https://openaddresses.io/). But what use is the data if you cannot view it. Further it is a long way from a [OSP network design](https://www.thefoa.org/tech/ref/OSP/design.html).
+But it is possible to get access to data from [Open Street Map](https://www.openstreetmap.org/), [Open Addresses](https://openaddresses.io/), and [Microsoft buildings](https://www.microsoft.com/en-us/maps/building-footprints). But what use is the data if you cannot view it. Further it is a long way from a [OSP network design](https://www.thefoa.org/tech/ref/OSP/design.html).
 
 So why not use these as input into a alogrithm that connects every address location to every other address?
 
@@ -62,3 +62,12 @@ Collaborating it quickly became clear that many insights could be unlocked. How 
 Further once a region has been analyzed it can be enriched with other data, saved, shared and used to communicate with all stakeholders. Ranging from ISPs, residents, elected officials, utilties, engineering firms, component manufacturers/suppliers and software vendors.
 
 With this solution communities can now answer where and when they want a broadband network. Aswell as begin the converstaion of cost.
+
+Take a look at the accessible data sample from our US National data product.
+
+- 1KM Hex [here](https://studio.unfolded.ai/public/db786871-7e13-4eb1-81f5-643c56331719)
+- Street segement hex [here](https://studio.unfolded.ai/public/8dd95cde-9941-4e3a-9853-0ef1f41611b0)
+
+You can sign up for unfloded too [here](https://studio.unfolded.ai).
+
+Send us a [MEOW!](mailto:f.kauker@gmail.com)
