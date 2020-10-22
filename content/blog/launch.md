@@ -68,6 +68,6 @@ Take a look at the accessible data sample from our US National data product.
 - 1KM Hex [here](https://studio.unfolded.ai/public/db786871-7e13-4eb1-81f5-643c56331719)
 - Street segement hex [here](https://studio.unfolded.ai/public/8dd95cde-9941-4e3a-9853-0ef1f41611b0)
 
-You can sign up for unfloded too [here](https://studio.unfolded.ai).
+You can sign up for unfolded too [here](https://studio.unfolded.ai).
 
 Send us a [MEOW!](mailto:f.kauker@gmail.com)
