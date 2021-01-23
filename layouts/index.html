@@ -1,0 +1,17 @@
+{{define "header"}}
+    {{partial "header.html" .}}
+{{end}}
+
+{{define "main"}}
+
+
+<article>
+  <section>
+    {{ .Content }}
+  </section>
+</article>
+
+{{end}}
+{{define "footer"}}
+    {{partial "footer" .}}
+{{end}}

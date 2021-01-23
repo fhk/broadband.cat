@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on MEOW!</title>
+    <link>/blog/</link>
+    <description>Recent content in Blogs on MEOW!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2020, broadband.cat</copyright>
+    <lastBuildDate>Sun, 18 Oct 2020 13:31:43 -0700</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Launch</title>
+      <link>/blog/launch/</link>
+      <pubDate>Sun, 18 Oct 2020 13:31:43 -0700</pubDate>
+      
+      <guid>/blog/launch/</guid>
+      <description>MOM!!! Netflix is buffering again&amp;hellip; Recently everyday access to broadband has come into direct focus in the United States. This has been an onging discussion. With false information in in the Form 477 data through to projects like Google Fiber motivating communities to ask the question. Why can&amp;rsquo;t we get acess to reliable, affordable high speed internet.
+Enter COVID-19&amp;hellip; In a complete shift of the business pschy work from home is now the norm.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,67 @@
+baseURL = ""
+title = "MEOW!"
+author = "Cheshire Cat"
+copyright = "© 2020, broadband.cat"
+paginate = 4
+languageCode = "en"
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+theme = "origin"
+staticDir = "static"
+publishDir = "docs"
+
+[params]
+  description = "How much would broadband cost for your town?"
+  featured = true
+  cssonly = false
+  customCss = ["scss/custom.css"]
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 10
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+  [[menu.main]]
+    identifier = "products"
+    name = "Products"
+    url = "/products/data/"
+    weight = 10
+  [[menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/contact/"
+    weight = 10
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    url = "/blog/"
+    weight = 10
+  [[menu.main]]
+    identifier = "demo"
+    name = "Demo"
+    url = "https://studio.unfolded.ai/public/db786871-7e13-4eb1-81f5-643c56331719"
+    weight = 10
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+
+
+
+[markup]
+  [markup.highlight]
+    style = "github"
+    tabWidth = 4
+
+[markup.goldmark.renderer]
+unsafe = true
+
+

@@ -1,0 +1,18 @@
+{{define "header"}}
+    {{partial "header.html" .}}
+{{end}}
+
+{{define "main"}}
+
+{{ $paginator := .Paginator }}
+<div class="featured-list">
+    {{ range $paginator.Pages }}
+        {{ .Render "li" }}
+    {{ end }}
+</div>
+{{ partial "pagination" . }}
+
+{{end}}
+{{define "footer"}}
+    {{partial "footer" .}}
+{{end}}

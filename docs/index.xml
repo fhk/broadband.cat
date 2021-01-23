@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meow! on MEOW!</title>
+    <link>/</link>
+    <description>Recent content in Meow! on MEOW!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2020, broadband.cat</copyright>
+    <lastBuildDate>Sun, 18 Oct 2020 13:35:26 -0700</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 18 Oct 2020 16:04:45 -0700</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Time spent with a cat is never wasted. ― Colette
+Let&amp;rsquo;s make your project purrrfect Send us a MEOW!</description>
+    </item>
+    
+    <item>
+      <title>Launch</title>
+      <link>/blog/launch/</link>
+      <pubDate>Sun, 18 Oct 2020 13:31:43 -0700</pubDate>
+      
+      <guid>/blog/launch/</guid>
+      <description>MOM!!! Netflix is buffering again&amp;hellip; Recently everyday access to broadband has come into direct focus in the United States. This has been an onging discussion. With false information in in the Form 477 data through to projects like Google Fiber motivating communities to ask the question. Why can&amp;rsquo;t we get acess to reliable, affordable high speed internet.
+Enter COVID-19&amp;hellip; In a complete shift of the business pschy work from home is now the norm.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Sun, 18 Oct 2020 13:30:47 -0700</pubDate>
+      
+      <guid>/about/</guid>
+      <description>We believe broadband access should be treated as shared infrastructure. Every person should have affordable easy access to connectivity.
+This will only be possible if communities are able to self start on their broadband discovery journey.
+After many years building broadband network planning software and completing designs for 10&amp;rsquo;s of millions of homes for the industry the founders of broadband.cat came together to enable anyone to use open source software and open data to detemine the cost of a network for their region.</description>
+    </item>
+    
+    <item>
+      <title>Data</title>
+      <link>/products/data/</link>
+      <pubDate>Sun, 18 Oct 2020 13:30:05 -0700</pubDate>
+      
+      <guid>/products/data/</guid>
+      <description>Whether you are brand new to broadband or you are an expert in Outside Plant (OSP) you want to know what you are in for.
+ Where do you need to construct? Where do you need to get access? Who are you going to connect?  You can answer these questions easily with spatial data.
+broadband.cat offers three (3) data products.
+ 1KM hexagon aggregation Example Street segment hexagon aggregation Example Network route lines Example  Each of these data sets come with a breakdown by route type.</description>
+    </item>
+    
+  </channel>
+</rss>
