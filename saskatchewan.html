@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8" />
+<title>Saskatchewan</title>
+<meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no" />
+<script src="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.js"></script>
+<link href="https://api.mapbox.com/mapbox-gl-js/v1.12.0/mapbox-gl.css" rel="stylesheet" />
+<style>
+	body { margin: 0; padding: 0; }
+	#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+</style>
+</head>
+<body>
+<div id="map"></div>
+<script>
+	mapboxgl.accessToken = 'pk.eyJ1IjoiZmhrIiwiYSI6ImNqczVveGNhdTAzanU0NG12NHF5anN0eG0ifQ.VKTajL9diCZk2afccGfbRw';
+var map = new mapboxgl.Map({
+container: 'map',
+style: 'mapbox://styles/mapbox/light-v10',
+zoom: 7,
+center: [-106, 55]
+});
+ 
+map.on('load', function () {
+map.addSource('Saskatchewan', {
+type: 'vector',
+url: 'mapbox://fhk.50f2jpb0'
+});
+map.addLayer({
+'id': 'Saskatchewan',
+'type': 'fill',
+'source': 'Saskatchewan',
+'source-layer': 'Saskatchewan',
+'layout': {
+},
+'paint': {
+'fill-color': '#FF0000',
+'fill-opacity': 0.8
+}
+});
+
+// Add zoom and rotation controls to the map.
+map.addControl(new mapboxgl.NavigationControl());
+
+});
+</script>
+ 
+</body>
+</html>
