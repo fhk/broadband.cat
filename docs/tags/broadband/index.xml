@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>broadband on MEOW!</title>
+    <link>/tags/broadband/</link>
+    <description>Recent content in broadband on MEOW!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2020, broadband.cat</copyright>
+    <lastBuildDate>Sun, 07 Mar 2021 13:31:43 -0700</lastBuildDate><atom:link href="/tags/broadband/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Senegal | Healthsites.io</title>
+      <link>/blog/senegal_hospital_network/</link>
+      <pubDate>Sun, 07 Mar 2021 13:31:43 -0700</pubDate>
+      
+      <guid>/blog/senegal_hospital_network/</guid>
+      <description>Access to health care is a human right Over the past year we have experienced a bifrication of peoples ability to access the medical system. This has been acute in the most vulnerable areas with over representation of COVID deaths nine times higher than in more affluent regions 1. Now this shows that even in developed countries what impact a struggling healthcare system can have. Emerging nations have it even tougher.</description>
+    </item>
+    
+  </channel>
+</rss>
