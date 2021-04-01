@@ -7,7 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, broadband.cat</copyright>
-    <lastBuildDate>Sun, 07 Mar 2021 13:31:43 -0700</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 -0001</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fiber design solved</title>
+      <link>/blog/fiber_design_solved/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0001</pubDate>
+      
+      <guid>/blog/fiber_design_solved/</guid>
+      <description>Background Over the last ten years or more there has been much research into creating models and solvers to create solutions to telecommunication network design problems. However, more generally these models face a key limitation. The solutions can only be as good as the data that is used as input. Further due to the method in which these models are constructed using MILP or Hueristics they tend to hand wave and simplify certain aspects.</description>
+    </item>
+    
     <item>
       <title>Senegal | Healthsites.io</title>
       <link>/blog/senegal_hospital_network/</link>

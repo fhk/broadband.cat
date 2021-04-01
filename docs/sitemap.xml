@@ -4,7 +4,32 @@
   
   <url>
     <loc>/blog/</loc>
-    <lastmod>2021-03-07T13:31:43-07:00</lastmod>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/fiber_design_solved/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/model/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/solver/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
   </url>
   
   <url>
@@ -24,11 +49,6 @@
   
   <url>
     <loc>/blog/senegal_hospital_network/</loc>
-    <lastmod>2021-03-07T13:31:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-03-07T13:31:43-07:00</lastmod>
   </url>
   

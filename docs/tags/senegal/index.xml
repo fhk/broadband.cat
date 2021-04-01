@@ -7,7 +7,11 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, broadband.cat</copyright>
-    <lastBuildDate>Sun, 07 Mar 2021 13:31:43 -0700</lastBuildDate><atom:link href="/tags/senegal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 07 Mar 2021 13:31:43 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/senegal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Senegal | Healthsites.io</title>
       <link>/blog/senegal_hospital_network/</link>
