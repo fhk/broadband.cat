@@ -2,7 +2,7 @@
 title: "Fiber design solved"
 date: 2021-04-01T00:00:00-00:01
 draft: true
-description : "Announcement: Optimal solution found to FTTx network design"
+description : "Annoucement: Optimal solution found to FTTx network design"
 tags : [ "solver", "network", "model"] 
 ---
 
