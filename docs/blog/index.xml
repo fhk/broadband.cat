@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, broadband.cat</copyright>
-    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 -0001</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 19:58:09 -0700</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Broadbandcompanyanatomy</title>
+      <link>/blog/broadbandcompanyanatomy/</link>
+      <pubDate>Fri, 20 Aug 2021 19:58:09 -0700</pubDate>
+      
+      <guid>/blog/broadbandcompanyanatomy/</guid>
+      <description>Anatomy of a Broadband Business With the ongoing influx of capital into global broadband projects [1,2,3] how the capital is to be deployed is coming under more scrutiny. Further, ensuring that the un/underserved are connected is a front most priority. Much of this effort relies on data and being able to identify those regions with little or no broadband service. Whilst there are some major shake ups in ease of delivering/accessing service with companies like SpaceX starting to commercialize Starlink, it remains to be seen the net impact on market penetration and the scalability of such solutions.</description>
+    </item>
     
     <item>
       <title>Fiber design solved</title>
