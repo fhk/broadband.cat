@@ -13,6 +13,26 @@
   </url>
   
   <url>
+    <loc>/tags/company/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/blog/fiber_design_solved/</loc>
     <lastmod>2021-04-01T00:00:00-00:01</lastmod>
   </url>
@@ -29,11 +49,6 @@
   
   <url>
     <loc>/tags/solver/</loc>
-    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2021-04-01T00:00:00-00:01</lastmod>
   </url>
   
