@@ -7,13 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, broadband.cat</copyright>
-    <lastBuildDate>Fri, 20 Aug 2021 19:58:09 -0700</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 22:14:50 -0800</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Broadband Company Anatomy</title>
+      <title>Catalan</title>
+      <link>/blog/catalan/</link>
+      <pubDate>Thu, 27 Jan 2022 22:14:50 -0800</pubDate>
+      
+      <guid>/blog/catalan/</guid>
+      <description>Anatomia d&amp;rsquo;un negoci de banda ampla Amb la contínua afluència de capital als projectes globals de banda ampla [1,2,3], com s&amp;rsquo;ha de desplegar el capital s&amp;rsquo;està examinant més. A més, assegurar-se que els que no estan connectats o que no estan connectats és una prioritat. Gran part d&amp;rsquo;aquest esforç es basa en les dades i en poder identificar aquelles regions amb poc o cap servei de banda ampla. Tot i que hi ha alguns canvis importants en la facilitat per oferir/accedir al servei amb empreses com SpaceX que comencen a comercialitzar Starlink, cal veure l&amp;rsquo;impacte net en la penetració del mercat i l&amp;rsquo;escalabilitat d&amp;rsquo;aquestes solucions.</description>
+    </item>
+    
+    <item>
+      <title>Broadbandcompanyanatomy</title>
       <link>/blog/broadbandcompanyanatomy/</link>
       <pubDate>Fri, 20 Aug 2021 19:58:09 -0700</pubDate>
       
