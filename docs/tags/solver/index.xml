@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>solver on MEOW!</title>
+    <link>/tags/solver/</link>
+    <description>Recent content in solver on MEOW!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2020, broadband.cat</copyright>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 -0001</lastBuildDate>
+    
+	<atom:link href="/tags/solver/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fiber design solved</title>
+      <link>/blog/fiber_design_solved/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0001</pubDate>
+      
+      <guid>/blog/fiber_design_solved/</guid>
+      <description>Background Over the last ten years or more there has been much research into creating models and solvers to create solutions to telecommunication network design problems. However, more generally these models face a key limitation. The solutions can only be as good as the data that is used as input. Further due to the method in which these models are constructed using MILP or Hueristics they tend to hand wave and simplify certain aspects.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,7 +7,38 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, broadband.cat</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 13:31:43 -0700</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 19:58:09 -0700</lastBuildDate>
+    
+	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Broadband Company Anatomy</title>
+      <link>/blog/broadbandcompanyanatomy/</link>
+      <pubDate>Fri, 20 Aug 2021 19:58:09 -0700</pubDate>
+      
+      <guid>/blog/broadbandcompanyanatomy/</guid>
+      <description>Anatomy of a Broadband Business With the ongoing influx of capital into global broadband projects [1,2,3] how the capital is to be deployed is coming under more scrutiny. Further, ensuring that the un/underserved are connected is a front most priority. Much of this effort relies on data and being able to identify those regions with little or no broadband service. Whilst there are some major shake ups in ease of delivering/accessing service with companies like SpaceX starting to commercialize Starlink, it remains to be seen the net impact on market penetration and the scalability of such solutions.</description>
+    </item>
+    
+    <item>
+      <title>Fiber design solved</title>
+      <link>/blog/fiber_design_solved/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0001</pubDate>
+      
+      <guid>/blog/fiber_design_solved/</guid>
+      <description>Background Over the last ten years or more there has been much research into creating models and solvers to create solutions to telecommunication network design problems. However, more generally these models face a key limitation. The solutions can only be as good as the data that is used as input. Further due to the method in which these models are constructed using MILP or Hueristics they tend to hand wave and simplify certain aspects.</description>
+    </item>
+    
+    <item>
+      <title>Senegal | Healthsites.io</title>
+      <link>/blog/senegal_hospital_network/</link>
+      <pubDate>Sun, 07 Mar 2021 13:31:43 -0700</pubDate>
+      
+      <guid>/blog/senegal_hospital_network/</guid>
+      <description>Access to health care is a human right Over the past year we have experienced a bifrication of peoples ability to access the medical system. This has been acute in the most vulnerable areas with over representation of COVID deaths nine times higher than in more affluent regions 1. Now this shows that even in developed countries what impact a struggling healthcare system can have. Emerging nations have it even tougher.</description>
+    </item>
+    
     <item>
       <title>Launch</title>
       <link>/blog/launch/</link>

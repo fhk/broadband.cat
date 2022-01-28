@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/blog/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/broadbandcompanyanatomy/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/company/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/software/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/tech/</loc>
+    <lastmod>2021-08-20T19:58:09-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/fiber_design_solved/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/model/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/network/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/solver/</loc>
+    <lastmod>2021-04-01T00:00:00-00:01</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/broadband/</loc>
+    <lastmod>2021-03-07T13:31:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/hospital/</loc>
+    <lastmod>2021-03-07T13:31:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/senegal/</loc>
+    <lastmod>2021-03-07T13:31:43-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/senegal_hospital_network/</loc>
+    <lastmod>2021-03-07T13:31:43-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/contact/</loc>
     <lastmod>2020-10-18T16:04:45-07:00</lastmod>
   </url>
@@ -10,11 +80,6 @@
   <url>
     <loc>/</loc>
     <lastmod>2020-10-18T13:35:26-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/blog/</loc>
-    <lastmod>2020-10-18T13:31:43-07:00</lastmod>
   </url>
   
   <url>
@@ -29,11 +94,6 @@
   
   <url>
     <loc>/tags/mvp/</loc>
-    <lastmod>2020-10-18T13:31:43-07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
     <lastmod>2020-10-18T13:31:43-07:00</lastmod>
   </url>
   

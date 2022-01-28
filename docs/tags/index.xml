@@ -7,7 +7,92 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2020, broadband.cat</copyright>
-    <lastBuildDate>Sun, 18 Oct 2020 13:31:43 -0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Aug 2021 19:58:09 -0700</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>company</title>
+      <link>/tags/company/</link>
+      <pubDate>Fri, 20 Aug 2021 19:58:09 -0700</pubDate>
+      
+      <guid>/tags/company/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>software</title>
+      <link>/tags/software/</link>
+      <pubDate>Fri, 20 Aug 2021 19:58:09 -0700</pubDate>
+      
+      <guid>/tags/software/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tech</title>
+      <link>/tags/tech/</link>
+      <pubDate>Fri, 20 Aug 2021 19:58:09 -0700</pubDate>
+      
+      <guid>/tags/tech/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>model</title>
+      <link>/tags/model/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0001</pubDate>
+      
+      <guid>/tags/model/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>/tags/network/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0001</pubDate>
+      
+      <guid>/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>solver</title>
+      <link>/tags/solver/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 -0001</pubDate>
+      
+      <guid>/tags/solver/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>broadband</title>
+      <link>/tags/broadband/</link>
+      <pubDate>Sun, 07 Mar 2021 13:31:43 -0700</pubDate>
+      
+      <guid>/tags/broadband/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hospital</title>
+      <link>/tags/hospital/</link>
+      <pubDate>Sun, 07 Mar 2021 13:31:43 -0700</pubDate>
+      
+      <guid>/tags/hospital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Senegal</title>
+      <link>/tags/senegal/</link>
+      <pubDate>Sun, 07 Mar 2021 13:31:43 -0700</pubDate>
+      
+      <guid>/tags/senegal/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>launch</title>
       <link>/tags/launch/</link>
