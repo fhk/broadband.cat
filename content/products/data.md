@@ -1,7 +1,7 @@
 ---
 title: "Data"
 date: 2020-10-18T13:30:05-07:00
-draft: true
+draft: false
 ---
 
 Whether you are brand new to broadband or you are an expert in Outside Plant (OSP) you want to know what you are in for.

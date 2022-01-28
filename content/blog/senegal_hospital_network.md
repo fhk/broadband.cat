@@ -1,7 +1,7 @@
 ---
 title: "Senegal | Healthsites.io"
 date: 2021-03-07T13:31:43-07:00
-draft: true
+draft: false
 description : "Create a potential cable route for medical care locations"
 tags : [ "hospital", "broadband", "Senegal"] 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Launch"
 date: 2020-10-18T13:31:43-07:00
-draft: true
+draft: false
 description : "US nation wide rollout cost benchmark"
 tags : [ "v0", "launch", "MVP"] 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Catalan"
 date: 2022-01-27T22:14:50-08:00
-draft: true
+draft: false
 ---
 
 # Anatomia d'un negoci de banda ampla

@@ -1,7 +1,7 @@
 ---
-title: "Broadbandcompanyanatomy"
+title: "Broadband Company Anatomy"
 date: 2021-08-20T19:58:09-07:00
-draft: true
+draft: false
 ---
 
 # Anatomy of a Broadband Business

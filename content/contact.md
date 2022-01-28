@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 date: 2020-10-18T16:04:45-07:00
-draft: true
+draft: false
 ---
 
 
